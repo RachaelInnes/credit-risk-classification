@@ -20,6 +20,7 @@ Evaluation: I generated predictions on the testing data and evaluated the model'
 Machine Learning Model 1: Logistic Regression
 
 For Healthy loans (Class 0), the results are below:
+
 -Accuracy: 99%, that is, the model correctly predicted 99% of the loans.
 -Precision: 1.00, 100% of loans predicted as healthy were correct. 
 -Recall: 1.00, 100% of the actual healthy loans correctly identified.
