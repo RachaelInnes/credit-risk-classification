@@ -1,5 +1,5 @@
 ## Overview of the Analysis
-The purpose of this analysis was to build a machine learning model that can predict the creditworthiness of borrowers based on historical lending activity. Specifically, the goal was to identify "High-risk" loans (Class 1) and :"Healthy" loans (Class 0). The dataset provided by the bank contained 77,536 entries which contained financial information on borrowers and loans, such as, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt.
+The purpose of this analysis was to build a machine learning model that can predict the creditworthiness of borrowers based on historical lending activity. Specifically, the goal was to identify "High-risk" loans (Class 1) and "Healthy" loans (Class 0). The dataset provided by the bank contained 77,536 entries which contained financial information on borrowers and loans, such as, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt.
 
  The key target variable was the loan status (loan_status), that indicates whether a loan was classified as "Healthy" (0) or "High-risk" (1). The distribution of the target variable (value_counts) reflects a strong inbalance between loan status', as below:
 
