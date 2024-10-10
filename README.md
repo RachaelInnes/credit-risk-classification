@@ -21,14 +21,15 @@ Machine Learning Model 1: Logistic Regression
 
 For Healthy loans (Class 0), the results are below:              
 
--Accuracy: 99%, that is, the model correctly predicted 99% of the loans.
--Precision: 1.00, 100% of loans predicted as healthy were correct. 
--Recall: 1.00, 100% of the actual healthy loans correctly identified.
+- Accuracy: 99%, that is, the model correctly predicted 99% of the loans.
+- Precision: 1.00, 100% of loans predicted as healthy were correct. 
+- Recall: 1.00, 100% of the actual healthy loans correctly identified.
 
 For High Risk loans (Class 1), the results are below:
--Precision: 0.86, 86%  of the loans predicted as high-risk were correct.
--Recall: 0.91, 91% of actual high-risk loans were correctly identified.
--F1-Score: 0.88, a balance between precision and recall for high-risk loans.
+
+- Precision: 0.86, 86%  of the loans predicted as high-risk were correct.
+- Recall: 0.91, 91% of actual high-risk loans were correctly identified.
+- F1-Score: 0.88, a balance between precision and recall for high-risk loans.
 
 
 ## Summary
